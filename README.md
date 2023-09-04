@@ -10,7 +10,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
+
 ## Demo
 
 https://talk-a-tive.herokuapp.com/
@@ -54,7 +54,7 @@ Start the Client
   npm start
 ```
 
-  
+
 # Features
 
 ### Authenticaton
@@ -68,14 +68,9 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
+### Notifications
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
 
-  
